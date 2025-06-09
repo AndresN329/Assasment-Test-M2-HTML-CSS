@@ -21,21 +21,20 @@ This work was carried out to **practice and consolidate fundamental concepts of 
 De acuerdo al enunciado, la página debía incluir:
 
 1. **HTML structure:**
-a. Create an index.html file with semantic structure (use of <header >, <nav >,
-<´main´>, <´footer´>).
+a. Create an index.html file with semantic structure (use of`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`).
 b. Include a personal presentation section, a portfolio with at least three
 projects and a contact section.
 
-2. **CSS styles:**
+3. **CSS styles:**
 to. Use an external file styles.css for styles.
 b. Apply colors, shades, custom typography and transitions.
 
-3. **Responsive design:**
+4. **Responsive design:**
 a. Implement Flexbox and Grid for element arrangement.
 b. Adapt the design to three screen sizes: desktop (1024px +), tablet (768px) and
 mobile (480px).
 
-4. **Interactivity:**
+5. **Interactivity:**
 to. Add smooth transitions for buttons and links.
 b. Incorporate effects by interacting with elements of the portfolio (hover).
 
