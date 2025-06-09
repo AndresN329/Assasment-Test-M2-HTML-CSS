@@ -22,7 +22,7 @@ De acuerdo al enunciado, la página debía incluir:
 
 1. **HTML structure:**
 a. Create an index.html file with semantic structure (use of <header >, <nav >,
-<main >, <footer >).
+<´main´>, <´footer´>).
 b. Include a personal presentation section, a portfolio with at least three
 projects and a contact section.
 
@@ -59,10 +59,10 @@ This page is a personal portfolio with a short presentation, projects and contac
 
 ## Technologies used
 
-- ** HTML5 ** – semantic content structure.
-- ** CSS3 ** – visual styles, layout (Flexbox and Grid), responsiveness.
-- ** Media Queries ** – adaptation to small devices.
-- ** CSS animations and transitions ** – subtle visual interactivity.
+- **HTML5** – semantic content structure.
+- **CSS3** – visual styles, layout (Flexbox and Grid), responsiveness.
+- **Media Queries** – adaptation to small devices.
+- **CSS animations and transitions** – subtle visual interactivity.
 
 ---
 
