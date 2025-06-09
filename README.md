@@ -1,12 +1,12 @@
 # Portfolio Personal
 
-This project is a ** Performance test **, developed as part of a ** Module 2 ** training exercise of the Be a Coder course.
+This project is a **Performance test**, developed as part of a **Module 2** training exercise of the Be a Coder course.
 
 ---
 
 ## Why did I make this page?
 
-This work was carried out to ** practice and consolidate fundamental concepts of web development **, specifically:
+This work was carried out to **practice and consolidate fundamental concepts of web development**, specifically:
 
 - semantic HTML5
 - Flexbox and Grid Layout
@@ -47,11 +47,11 @@ This page is a personal portfolio with a short presentation, projects and contac
 
 ### Contains:
 
-- A ** header with logo and navigation **
-- A ** brief presentation ** with title 
-- A ** grid section with information cards and images ** about the projects
-- A simple ** footer **
-- Design adapted for ** mobiles and tablets **
+- A **header with logo and navigation**
+- A **brief presentation** with title 
+- A **grid section with information cards and images** about the projects
+- A simple **footer**
+- Design adapted for **mobiles and tablets**
 - Among others
 
 
@@ -71,13 +71,18 @@ This page is a personal portfolio with a short presentation, projects and contac
 
 The site automatically adapts to:
 
-- 📺 ** Desks **
-- 📱 ** Tablets **
-- 📱 ** Mobiles **
+- 📺 **Desks**
+- 📱 **Tablets**
+- 📱 **Mobiles**
 
 ---
 
 ## Author
 
-Developed by ** Andrés ** as part of the Be a Coder training – Performance test Module 2.
+Developed by **Andrés** as part of the Be a Coder training – Performance test Module 2.
+
+Name: Andres Niebles Martinez
+Email: andresnieblesmartinez@gmail.com
+C.C: 1038103522
+
 ---
