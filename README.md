@@ -81,7 +81,9 @@ The site automatically adapts to:
 Developed by **Andrés** as part of the Be a Coder training – Performance test Module 2.
 
 Name: Andres Niebles Martinez
+
 Email: andresnieblesmartinez@gmail.com
+
 C.C: 1038103522
 
 ---
